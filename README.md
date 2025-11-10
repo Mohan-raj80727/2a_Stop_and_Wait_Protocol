@@ -1,6 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
 # NAME : MOHAN RAJ.S
-# REG NO : 212224100036
+# REG NO : 212224100036 
 ## AIM 
 To write a python program to perform stop and wait protocol
 
